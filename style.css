@@ -507,13 +507,14 @@
   justify-content: center;
   text-align: center;
   align-content: center;
+  margin-left: 50px;
 }
 .icon {
   display: flex;
   align-items: center;
   gap: 10px;
   margin-left: auto;
-  margin-right: 20px;
+  margin-right: 40px;
 }
 /* last page */
 @media (max-width: 834px) {
