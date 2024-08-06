@@ -1,0 +1,26 @@
+.item1 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid yellow;
+}
+.item2 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid yellow;
+}
+.item3 {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid yellow;
+  align-items: center;
+}
+.container {
+  display: flex;
+  /* justify-content: flex-start; */
+  text-align: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}

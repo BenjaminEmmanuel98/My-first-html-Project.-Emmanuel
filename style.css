@@ -309,7 +309,7 @@
 }
 
 .limitsection {
-  height: 20vh;
+  height: 25vh;
 }
 .limitparentdiv {
   margin-bottom: 20px;
@@ -339,7 +339,7 @@
   margin-top: 20px;
 }
 .picture {
-  height: 200vh;
+  height: 500vh;
   background-size: 95%;
   background-position: center;
   background-repeat: no-repeat;
@@ -507,7 +507,7 @@
   align-content: center;
   margin-left: 50px;
 }
-.icon {
+.icons {
   display: flex;
   align-items: center;
   gap: 10px;
